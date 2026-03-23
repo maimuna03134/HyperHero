@@ -1,0 +1,6 @@
+.border-gradient {
+  /* border-bottom: linear-gradient(to right, #632EE3, #9F62F2) 1; */
+  font-weight: bold;
+  color: #632EE3;
+  border-bottom: 2px solid blue;
+}

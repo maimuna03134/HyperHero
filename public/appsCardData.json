@@ -1,0 +1,309 @@
+[
+  {
+    "id": 1,
+    "title": "FocusMaster",
+    "shortDescription": "Focus for Productivity",
+    "companyName": "AlphaTech",
+    "image": "https://i.ibb.co.com/T9DsBhf/2-UG9ud-O32o1wyxj1b-OG208kr-EZ66v47y-E-d-Nqi-UOp-HNSWA9bcpi-EId37a-Zh-R6jq4-BQ.png",
+    "description": "FocusMaster is designed to revolutionize the way you work, study, and manage your time. Combining the scientifically proven Pomodoro technique with a modern interface, it creates an environment that encourages deep focus and minimizes distractions. The app allows you to set custom focus sessions, take structured breaks, and track your progress over time. Ambient sounds, task grouping, and gentle notifications help maintain concentration throughout the day. FocusMaster also provides analytics to identify peak productivity periods, helping you optimize your schedule. Sync your sessions across multiple devices, integrate with calendars, and receive reminders to start or end work cycles. Whether preparing for exams, managing projects, or trying to achieve personal goals, FocusMaster provides the structure, motivation, and tools to maximize efficiency. Its minimalist design, smart notifications, and immersive soundscapes make working intentionally and effectively an enjoyable experience.",
+    "size": 45,
+    "reviews": "1.2K",
+    "ratingAvg": 4.8,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 600 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "FitTrack Pro",
+    "shortDescription": "Health & Fitness Tracker",
+    "companyName": "HealthHub",
+    "image": "https://i.ibb.co.com/ZzRdwq50/8e270a27e139387f6f21bf6aab9743f5-icon.png",
+    "description": "FitTrack Pro is a comprehensive health and fitness app designed to help users take control of their well-being. It goes far beyond step counting and calorie tracking, offering personalized workout routines, nutrition tracking, and sleep monitoring. The app adapts to your lifestyle, providing guidance whether you are training for an event, losing weight, or simply staying active. Connect wearable devices to monitor heart rate, steps, and calories burned in real-time. Detailed analytics let you track progress and identify areas for improvement. The app also includes motivational challenges, rewards, and the ability to connect with friends for accountability and competition. FitTrack Pro’s intuitive interface, easy-to-follow instructions, and visually appealing dashboards make fitness tracking simple, enjoyable, and effective for everyone, from beginners to advanced users.",
+    "size": 38,
+    "reviews": "5.5M",
+    "ratingAvg": 4.6,
+    "downloads": "3.5M",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 435 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "PhotoSnap",
+    "shortDescription": "Photo Editing & Sharing",
+    "companyName": "PixelWorks",
+    "image": "https://i.ibb.co.com/QjvSNJ55/apps-34739-9007199266439288-0c87fc12-305d-4ba9-a61b-92b53924c7ef.png",
+    "description": "PhotoSnap is the ultimate photography companion for both hobbyists and professionals. Capture stunning images with advanced camera controls including focus, exposure, and ISO settings. Edit photos with a vast range of filters, real-time effects, and AI-powered enhancement tools. Create collages, add text, and share effortlessly to social media or cloud storage. PhotoSnap also features an Explore section for discovering trending edits, tutorials, and creative inspiration. Whether capturing landscapes, portraits, or lifestyle shots, the app provides everything you need to bring your vision to life. Its intuitive interface and rich features allow anyone to produce professional-quality images without prior expertise. From casual users to advanced photographers, PhotoSnap transforms the photography experience into a seamless blend of creativity and efficiency.",
+    "size": 60,
+    "reviews": "2.2K",
+    "ratingAvg": 4.7,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1190 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "BudgetBuddy",
+    "shortDescription": "Personal Finance Manager",
+    "companyName": "FinTrack",
+    "image": "https://i.ibb.co.com/ksLGGDzW/GPFn-5dr-A7-Mp-Eu2-Yuju-OGj3c-Um-Hk-RV9jl-Q-MCh2dluli0-Lh-Ge-Tgg-Hu9bad-F6h-Mcg.png",
+    "description": "BudgetBuddy is a powerful personal finance manager that makes managing money simple and intuitive. Track expenses, categorize transactions, and set monthly budgets tailored to your lifestyle. Receive alerts when spending approaches budget limits and view financial insights in easy-to-read charts. Secure integration with bank accounts ensures real-time tracking without compromising privacy. BudgetBuddy also provides tips and strategies to save money, plan for future expenses, and achieve financial goals. Whether managing day-to-day spending or long-term investments, the app helps users stay informed, organized, and in control of their finances. Its clean interface and visual feedback make budgeting engaging and actionable. From students to professionals, BudgetBuddy helps everyone make smarter financial decisions and maintain healthy financial habits over time.",
+    "size": 25,
+    "reviews": "80k",
+    "ratingAvg": 4.5,
+    "downloads": "2M",
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 335 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "MindNotes",
+    "shortDescription": "Notes & Task Organizer",
+    "companyName": "BrainWave",
+    "image": "https://i.ibb.co.com/1Y1sVGyL/F7-Soi-Ym5-N-op-GNn9b-NSG9lu-Ha-Cj6-Du-FU5-BUJk0-ZD1-Inlq4-AI99-XD0-Tg52-Cn7q-Tua-Slf.png",
+    "description": "MindNotes combines note-taking and task management into one versatile platform. Capture ideas quickly, organize tasks into boards, and categorize notes with tags for easy retrieval. The app supports rich text, image embedding, checklists, and collaborative editing with peers. Smart reminders ensure deadlines are met, while productivity analytics provide insights into your workflow. Cloud synchronization keeps your data available across devices. MindNotes’ intuitive design minimizes distractions, allowing users to focus on ideas and organization rather than struggling with complex interfaces. Whether for students, professionals, or creatives, MindNotes transforms the process of managing notes, tasks, and projects into an organized, enjoyable, and highly efficient experience.",
+    "size": 32,
+    "reviews": "67k",
+    "ratingAvg": 4.6,
+    "downloads": "1.8M",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 320 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "RecipeMaster",
+    "shortDescription": "Cooking & Recipes",
+    "companyName": "Culinary Co.",
+    "image": "https://i.ibb.co.com/k2XdWrCY/recipe-icon-5.png",
+    "description": "RecipeMaster transforms your kitchen experience by offering step-by-step guidance for thousands of recipes worldwide. Users can search recipes by ingredients, cuisine, dietary preferences, or skill level. The app includes cooking timers, shopping lists, and nutritional information to make meal prep easier. RecipeMaster provides video tutorials, tips, and tricks from professional chefs to elevate your cooking skills. Users can also save favorite recipes, plan weekly menus, and share their culinary creations with friends. The app is designed to be intuitive, inspiring, and engaging for both beginners and experienced cooks, helping you explore new dishes, improve cooking techniques, and enjoy the art of food preparation effortlessly.",
+    "size": 55,
+    "reviews": "1.5K",
+    "ratingAvg": 4.7,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 780 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "WeatherNow",
+    "shortDescription": "Real-time Weather Updates",
+    "companyName": "SkyTech",
+    "image": "https://i.ibb.co.com/7NRfCW6Y/weather-icon-with-rain-high-quality-free-png.png",
+    "description": "WeatherNow delivers accurate, real-time weather updates directly to your device. Track temperature, humidity, precipitation, wind speed, and UV index for your location or any city worldwide. The app offers hourly forecasts, 7-day outlooks, severe weather alerts, and interactive radar maps. Users can customize notifications for sudden changes in weather and plan activities accordingly. WeatherNow also provides lifestyle recommendations, such as clothing suggestions and outdoor activity alerts. Its intuitive interface, vibrant visuals, and timely notifications make it the perfect companion for travelers, commuters, and outdoor enthusiasts alike. Stay prepared and make informed decisions every day with WeatherNow, whether planning a trip or checking the daily forecast.",
+    "size": 20,
+    "reviews": "50k",
+    "ratingAvg": 4.5,
+    "downloads": "3M",
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 345 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "TaskHero",
+    "shortDescription": "Task Management & Productivity",
+    "companyName": "Productive Labs",
+    "image": "https://i.ibb.co.com/1GYd1QHj/unnamed.png",
+    "description": "TaskHero is a comprehensive task management app designed to streamline daily productivity. Users can create tasks, categorize them into projects, and assign deadlines with smart reminders. The app supports recurring tasks, priority settings, and collaborative boards for teams. TaskHero’s visual dashboard provides an overview of ongoing projects, completed tasks, and upcoming deadlines. With cloud synchronization, users can access tasks across multiple devices seamlessly. Gamification elements, such as achievement badges and progress tracking, keep motivation high. TaskHero simplifies organization, helping both individuals and teams improve efficiency, focus, and project management skills. The intuitive design allows you to manage your work without feeling overwhelmed, ensuring nothing is missed while maximizing productivity.",
+    "size": 28,
+    "reviews": "78k",
+    "ratingAvg": 4.6,
+    "downloads": "2.5M",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 365 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "LearnMate",
+    "shortDescription": "Learning & Courses",
+    "companyName": "EduTech",
+    "image": "https://i.ibb.co.com/S4tKh3Pk/OIP-4.webp",
+    "description": "LearnMate is an interactive learning platform that empowers students and lifelong learners to acquire knowledge efficiently. Users can explore courses across multiple subjects, watch video lectures, take quizzes, and track progress over time. The app offers personalized learning paths based on user performance, helping learners focus on areas needing improvement. Study tools include flashcards, note-taking, and discussion forums to enhance understanding. LearnMate also provides certifications upon course completion and integrates with educational platforms for seamless learning. Its intuitive interface, engaging content, and adaptive learning approach make education accessible, interactive, and enjoyable for learners of all ages. Whether preparing for exams, enhancing skills, or pursuing personal interests, LearnMate offers a complete learning experience.",
+    "size": 35,
+    "reviews": "1K",
+    "ratingAvg": 4.7,
+    "downloads": "4.2M",
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 380 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "TravelBuddy",
+    "shortDescription": "Trip Planning & Guides",
+    "companyName": "Wanderlust Inc.",
+    "image": "https://i.ibb.co.com/7xkt1q1G/OIP-5.webp",
+    "description": "TravelBuddy is your go-to travel companion, helping users plan trips, discover destinations, and access personalized travel guides. Search for hotels, restaurants, and attractions, and receive real-time recommendations based on your interests. TravelBuddy includes itinerary planning tools, maps, offline access, and travel alerts to ensure a smooth journey. Users can share trips, get tips from other travelers, and explore local experiences beyond standard tourist spots. The app makes travel planning simple, organized, and enjoyable, empowering users to make the most of every adventure. From weekend getaways to international trips, TravelBuddy offers comprehensive tools to plan, explore, and document travel experiences with ease.",
+
+    "size": 50,
+    "reviews": "1.1K",
+    "ratingAvg": 4.8,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 430 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "SleepWell",
+    "shortDescription": "Sleep Tracking & Relaxation",
+    "companyName": "HealthTech",
+    "image": "https://i.ibb.co.com/6RGX95nL/sleepwell-logo-png-seeklogo-536675.png",
+    "description": "SleepWell is a comprehensive sleep tracking and relaxation app that helps users achieve better sleep quality and overall wellness. Using advanced sleep monitoring technology, SleepWell tracks sleep cycles, duration, and disturbances to provide personalized insights. The app offers guided meditations, calming soundscapes, and bedtime routines to help you fall asleep faster and maintain a consistent sleep schedule. Users can set sleep goals, receive daily recommendations, and analyze trends over time to identify habits affecting sleep. SleepWell also integrates with wearable devices to collect detailed metrics on heart rate and movement during sleep. Its easy-to-use interface, soothing visuals, and science-backed techniques make improving sleep not just simple, but enjoyable. Whether struggling with insomnia, seeking relaxation, or looking to enhance recovery, SleepWell provides the tools and guidance needed to wake up refreshed and energized each day.",
+    "size": 40,
+    "reviews": "50k",
+    "ratingAvg": 4.6,
+    "downloads": "3.8M",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 405 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "MusicFlow",
+    "shortDescription": "Music Streaming & Playlists",
+    "companyName": "SoundLab",
+    "image": "https://i.ibb.co.com/zq4bywc/7709166998b9584d9b9c4f7ed4813c9c.png",
+    "description": "MusicFlow is a music streaming app that provides users with access to millions of songs, curated playlists, and personalized recommendations. The app allows you to explore genres, artists, and moods, discover trending tracks, and create your own playlists. MusicFlow features high-quality audio playback, offline listening, and cross-device synchronization, so your favorite music is always at your fingertips. Advanced algorithms analyze listening habits to suggest new tracks and artists tailored to your preferences. Users can follow friends, share playlists, and engage with communities around music interests. MusicFlow’s intuitive interface makes discovering and enjoying music seamless, whether commuting, working, or relaxing. Additionally, the app offers live radio, podcasts, and exclusive content from top artists. With MusicFlow, music lovers experience a dynamic, immersive, and fully personalized audio experience that enhances every moment.",
+    "size": 55,
+    "reviews": "1.4K",
+    "ratingAvg": 4.7,
+    "downloads": "7.5M",
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 630 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "ShopEasy",
+    "shortDescription": "Online Shopping & Deals",
+    "companyName": "RetailTech",
+    "image": "https://i.ibb.co.com/qY14nrc7/logo-07c82cfeeaceccfe982c.png",
+    "description": "ShopEasy is a one-stop online shopping app that simplifies the way users discover, compare, and purchase products. Browse thousands of items across categories like electronics, fashion, home, and beauty. The app provides price comparisons, personalized recommendations, and alerts for discounts and deals. Users can read detailed product reviews, track orders, and manage returns with ease. ShopEasy’s secure payment options and encrypted transactions ensure a safe shopping experience. Additionally, the app features a wish list, curated collections, and flash sales to help users save time and money. ShopEasy also integrates loyalty programs, reward points, and seasonal promotions, making shopping both convenient and rewarding. Its sleek interface and intuitive navigation allow users to effortlessly explore products and make informed purchase decisions anytime, anywhere.",
+
+    "size": 42,
+    "reviews": "1.2K",
+    "ratingAvg": 4.6,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 595 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "NewsPulse",
+    "shortDescription": "Personalized News Feed",
+    "companyName": "MediaHub",
+    "image": "https://i.ibb.co.com/x8PmpgV7/OIP-6.webp",
+    "description": "NewsPulse is a personalized news app designed to keep users informed about the topics that matter most. The app aggregates news from reputable sources and delivers curated content based on user preferences. Customize your feed to follow categories such as politics, technology, entertainment, sports, and health. NewsPulse offers push notifications for breaking news and live updates, ensuring you never miss critical developments. Users can save articles for offline reading, share stories with friends, and participate in discussions. Advanced AI algorithms recommend relevant articles, making the experience personalized and efficient. The app’s clean interface and intuitive navigation make browsing news simple, engaging, and fast. Whether staying updated on global events, industry trends, or local news, NewsPulse empowers users to be informed citizens with minimal effort.",
+
+    "size": 38,
+    "reviews": "1K",
+    "ratingAvg": 4.5,
+    "downloads": "4.2M",
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 475 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "LanguageLab",
+    "shortDescription": "Learn New Languages",
+    "companyName": "LinguaTech",
+    "image": "https://i.ibb.co.com/0NPhQDw/1200x630wa-1.png",
+    "description": "LanguageLab is a language-learning app that makes mastering new languages accessible and engaging. The app offers lessons in vocabulary, grammar, pronunciation, and conversational skills for multiple languages. Interactive exercises, quizzes, flashcards, and speaking practice help reinforce learning in a fun and immersive way. LanguageLab provides personalized learning paths based on user progress, tracking strengths and areas for improvement. The app also features cultural insights, idioms, and real-world conversation examples, allowing learners to not just memorize but truly understand the language context. Users can set daily goals, receive reminders, and track their learning streaks for motivation. With LanguageLab, learners of all ages can build confidence in speaking, reading, and writing in a new language, making travel, business, or personal growth more accessible and enjoyable.",
+    "size": 45,
+    "reviews": "85k",
+    "ratingAvg": 4.6,
+    "downloads": "3.5M",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 405 }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "MeditateNow",
+    "shortDescription": "Guided Meditation & Mindfulness",
+    "companyName": "ZenLabs",
+    "image": "https://i.ibb.co.com/kV79X4XT/1200x630wa-2.png",
+    "description": "MeditateNow is a mindfulness and meditation app designed to reduce stress, improve focus, and enhance mental clarity. The app offers guided meditations, breathing exercises, and relaxation techniques suitable for beginners and experienced practitioners alike. Users can select sessions based on duration, goal, or mood, and track their progress over time. Daily reminders and streak tracking encourage consistency, while ambient sounds and customizable backgrounds create a serene environment for practice. MeditateNow also provides insights on sleep quality, emotional well-being, and stress levels, helping users understand the impact of mindfulness in their daily lives. The app integrates with wearable devices and supports offline use for meditation on the go. Its intuitive interface, soothing content, and structured approach make MeditateNow a valuable tool for anyone seeking calm, focus, and balance in a busy world.",
+    "size": 30,
+    "reviews": "90k",
+    "ratingAvg": 4.7,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 395 }
+    ]
+  }
+]
