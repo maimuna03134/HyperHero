@@ -1,0 +1,39 @@
+.loading-container{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.loading-logo{
+    width: 48px;
+    height: 48px;
+    
+}
+.loading-logo{
+    animation: spin-scale 1.5s linear infinite;
+    transform-origin: center;
+    transition: transform 0.75s;
+}
+
+
+
+@media  (min-width:768px) {
+    .loading-logo{
+        width: 80px;
+        height: 80px;
+    }
+}
+
+@keyframes spin-scale {
+    /* 0%{
+        transform: rotate(0deg) scale(0.2);
+    } */
+    50%{
+        transform: rotate(180deg) scale(0.5);
+    }
+    100%{
+        transform: rotate(360deg) scale(0.2);
+    }
+}
+
