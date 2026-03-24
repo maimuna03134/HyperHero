@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from 'react';
-import Banner from '../../components/Banner/Banner';
-import useApps from '../../hooks/useApps';
-import AppCard from '../../components/AppCard/AppCard';
-import Container from '../../components/Container/Container';
-import { Link } from 'react-router';
-import ErrorApps from '../ErrorApps/ErrorApps';
+import Banner from '../../components/banner/Banner';
 import ErrorPage from '../ErrorPage/ErrorPage';
 import Loader from '../../components/Loader/Loader';
+import ErrorApps from '../ErrorApps/ErrorApps';
+import Container from '../../components/Container/Container';
+import AppCard from '../../components/AppCard/AppCard';
+import { Link } from 'react-router';
+import useApps from '../../hooks/useApps';
 
 const Home = () => {
     const { apps, loading, error } = useApps();
@@ -37,7 +37,7 @@ const Home = () => {
     return (
         <div>
             <div>
-                <Banner></Banner>
+                <Banner/>
             </div>
 
             <div>

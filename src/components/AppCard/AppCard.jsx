@@ -1,7 +1,8 @@
 import React from 'react';
-import { LuDownload } from "react-icons/lu";
-import { IoStar } from "react-icons/io5";
+import { IoStar } from 'react-icons/io5';
+import { LuDownload } from 'react-icons/lu';
 import { Link } from 'react-router';
+
 
 
 const AppCard = ({ app }) => {

@@ -4,9 +4,7 @@ import logo_img from '../../assets/logo.png'
 import { Link, NavLink, useLocation } from 'react-router';
 import { BsGithub } from "react-icons/bs";
 import Container from '../Container/Container';
-import Home from '../../pages/Home/Home';
-import Apps from '../../pages/Apps/Apps';
-import Installations from '../../pages/Installations/Installations';
+
 
 
 const Navbar = () => {

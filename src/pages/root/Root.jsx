@@ -1,13 +1,14 @@
 import React from "react";
-// import Navbar from "../../components/Header/Navbar";
+import Navbar from "../../components/Header/Navbar";
 import { Outlet } from "react-router";
-// import Footer from "../../components/Footer/Footer";
+import Footer from "../../components/Footer/Footer";
+
 
 
 const Root = () => {
     return (
         <div>
-            {/* <Navbar></Navbar> */}
+            <Navbar/>
 
 
             <div>
@@ -15,7 +16,7 @@ const Root = () => {
             </div>
 
 
-            {/* <Footer></Footer> */}
+            <Footer/>
         </div>
     );
 };
